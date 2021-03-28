@@ -20,6 +20,7 @@ author:
   twitter: twitter_username
   facebook: facebook_username
   email: your-email@email.com
+  avatar: assets/img/best-wallaby.png
 url: ''
 baseurl: ''
 permalink: '/:title/'
