@@ -2,7 +2,6 @@
 date: '2021-03-27T10:37'
 tags:
   - python
-  - machine-learning
 description: >-
   Notes and code snippets of Python that I've been collecting so far throughout
   the "Intro to Machine Learning" course.
