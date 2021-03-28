@@ -6,7 +6,7 @@ tags:
 description: >-
   Notes and code snippets of Python that I've been collecting so far throughout
   the "Intro to Machine Learning" course.
-title: La selección de l
+title: La selección de la corredora de bolsa
 ---
 
 **This article is for Demo purpose**
