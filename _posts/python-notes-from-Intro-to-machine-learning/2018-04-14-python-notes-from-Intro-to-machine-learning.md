@@ -6,6 +6,7 @@ description: >-
   Notes and code snippets of Python that I've been collecting so far throughout
   the "Intro to Machine Learning" course.
 title: La selección de la Corredora de Bolsa
+image: assets/img/31830-8-calvin-and-hobbes-transparent-background.png
 ---
 
 **This article is for Demo purpose**
