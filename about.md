@@ -5,7 +5,7 @@ layout: page
 excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
 comments: false
 ---
-
+ <div class="justified-text">
 [Nombre del Fondo] es un fondo de inversión privado con enfoque cuantitativo, fundado con la convicción de que los datos, la disciplina y la tecnología pueden generar rendimientos consistentes a lo largo del tiempo. Combinamos estrategias de trading algorítmico, gestión activa del riesgo y una arquitectura tecnológica ágil para capturar oportunidades tanto en mercados desarrollados como emergentes.
 
 Nuestro objetivo es generar valor real para nuestros inversionistas mediante un enfoque transparente, sistemático y centrado en la preservación de capital.
@@ -28,3 +28,4 @@ Comisiones alineadas con los resultados: 2% management fee + 20% performance fee
 
 Equipo
 Nuestro equipo combina experiencia en ingeniería, finanzas cuantitativas y desarrollo de software, con un compromiso firme por la transparencia y la excelencia operativa.
+</div>
