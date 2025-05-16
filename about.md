@@ -5,20 +5,7 @@ layout: page
 excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
 comments: false
 ---
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Texto Justificado</title>
-  <style>
-    .justified-text {
-      text-align: justify;
-      max-width: 800px;
-      margin: auto;
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-    }
-  </style>
-</head>
+
 <body>
   <div class="justified-text">
     <h2>About Us</h2>
@@ -30,4 +17,4 @@ comments: false
     </p>
   </div>
 </body>
-</html>
+
