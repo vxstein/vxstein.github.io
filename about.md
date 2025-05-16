@@ -6,13 +6,25 @@ excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+[Nombre del Fondo] es un fondo de inversión privado con enfoque cuantitativo, fundado con la convicción de que los datos, la disciplina y la tecnología pueden generar rendimientos consistentes a lo largo del tiempo. Combinamos estrategias de trading algorítmico, gestión activa del riesgo y una arquitectura tecnológica ágil para capturar oportunidades tanto en mercados desarrollados como emergentes.
 
-If you have a question about him or else, just send a letter to him.
+Nuestro objetivo es generar valor real para nuestros inversionistas mediante un enfoque transparente, sistemático y centrado en la preservación de capital.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+Estrategia
 
-**may u needs ✨**
+Modelos cuantitativos de momentum y reversión a la media.
 
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+Cobertura dinámica y gestión de drawdown.
+
+Trading automatizado basado en señales de alta convicción.
+
+Estructura
+
+Fondo privado tipo FIP, regulado bajo normativa chilena.
+
+Custodia externa y cuentas segregadas por cliente.
+
+Comisiones alineadas con los resultados: 2% management fee + 20% performance fee (high-water mark & hurdle rate anual del 5%).
+
+Equipo
+Nuestro equipo combina experiencia en ingeniería, finanzas cuantitativas y desarrollo de software, con un compromiso firme por la transparencia y la excelencia operativa.
