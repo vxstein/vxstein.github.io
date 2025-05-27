@@ -10,7 +10,7 @@ comments: false
   <div class="justified-text">
     <h2>About Us</h2>
     <p>
-      [Nombre del Fondo] es un fondo de inversión privado con enfoque cuantitativo, fundado con la convicción de que los datos, la disciplina y la tecnología pueden generar rendimientos consistentes a lo largo del tiempo. Combinamos estrategias de trading algorítmico, gestión activa del riesgo y una arquitectura tecnológica ágil para capturar oportunidades tanto en mercados desarrollados como emergentes.
+      AQX Capital es un fondo de inversión privado con enfoque cuantitativo, fundado con la convicción de que los datos, la disciplina y la tecnología pueden generar rendimientos consistentes a lo largo del tiempo. Combinamos estrategias de trading algorítmico, gestión activa del riesgo y una arquitectura tecnológica ágil para capturar oportunidades tanto en mercados desarrollados como emergentes.
     </p>
     <p>
       Nuestro objetivo es generar valor real para nuestros inversionistas mediante un enfoque transparente, sistemático y centrado en la preservación de capital.
